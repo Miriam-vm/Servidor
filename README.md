@@ -6,9 +6,10 @@
 ### PILARES "LA ESCUELITA"
 
 
+username/projectname/branch/path/to/img.png)
 
 
-https://github.com/Miriam-vm/Servidor/blob/master/cat
+![alt text](https://raw.githubusercontent.com/Miriam-vm/Servidor/master/paht/to/cat)
 
 
 
