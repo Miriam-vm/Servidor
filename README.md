@@ -3,12 +3,8 @@
 
 
 
-### PILARES "LA ESCUELITA"
+###### PILARES "LA ESCUELITA"
 
-
-
-
-![cat](cat.png)
 
 
 
