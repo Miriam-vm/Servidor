@@ -6,7 +6,7 @@
 ### PILARES "LA ESCUELITA"
 
 
-username/projectname/branch/path/to/img.png)
+
 
 ![cat](cat.png)
 
