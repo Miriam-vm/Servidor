@@ -8,10 +8,7 @@
 
 username/projectname/branch/path/to/img.png)
 
-
-![alt text](https://raw.githubusercontent.com/Miriam-vm/Servidor/master/paht/to/cat)
-
-
+![cat](cat.png)
 
 
 
